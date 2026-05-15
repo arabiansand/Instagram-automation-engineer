@@ -1,0 +1,19 @@
+insta-automation-pro/
+├── .env.example
+├── .gitignore
+├── .dockerignore
+├── config.json
+├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
+├── README.md
+└── src/
+    ├── __init__.py
+    ├── config.py
+    ├── utils.py
+    ├── client.py
+    ├── poster.py
+    ├── actions.py
+    ├── scraper.py
+    ├── scheduler.py
+    └── main.py
